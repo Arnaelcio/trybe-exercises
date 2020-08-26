@@ -204,4 +204,4 @@ Pronto! Você já sabe um pouco sobre onde [**eu**](https://www.linkedin.com/in/
 - *37-4: Projeto - Relatórios de Estoque.*
 
 É isso aí...
-Obrigado, aproveite a visita... a medida que [**eu**](https://www.linkedin.com/in/arnaelciogomespereira/) for concluindo os exercícios vou atualizando o repositório!
+Obrigado, aproveite a visita... à medida que [**eu**](https://www.linkedin.com/in/arnaelciogomespereira/) for concluindo os exercícios vou atualizando o repositório!
