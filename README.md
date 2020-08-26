@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Repositório de exercícios da Trybe!
-Olá humano...rsrsrsrs
-Que bom que você veio dar uma espiadinha básica em meu repositório do curso de desenvolvimento de Software; fique à vontade, a casa é sua...
+Olá humano...rsrsrsrs <br>
+Que bom que você veio dar uma espiadinha básica em meu repositório do curso de desenvolvimento de Software; fique à vontade, a casa é sua...<br>
 Antes de você sair por aí olhando as coisas, vou te dizer abaixo o que você vai encontrar nesse repositório.. então senta que lá vem a história.... :upside_down_face:
 
 Navegando por aqui, você encontrará todos os projetos e exercícios que eu [**Arnaelcio Gomes Pereira**](https://www.linkedin.com/in/arnaelciogomespereira/)  desenvolvi/desenvolvo ao longo de todo o meu curso com a [Trybe](https://www.betrybe.com/).
