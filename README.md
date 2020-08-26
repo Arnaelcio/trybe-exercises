@@ -9,10 +9,10 @@ A [**Trybe**](https://www.betrybe.com/) é uma escola do futuro para qualquer pe
 
 Seu programa de formação possui mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-Pronto! Você já sabe um pouco sobre onde [**eu**](https://www.linkedin.com/in/arnaelciogomespereira/){:target="_blank"}  estudo... agora abaixo deixo os tópicos dos conteúdos estudados no programa da Trybe.
+Pronto! Você já sabe um pouco sobre onde [**eu**](https://www.linkedin.com/in/arnaelciogomespereira/) estudo... agora abaixo deixo os tópicos dos conteúdos estudados no programa da Trybe.
 
 
-### [Introdução - Desenvolvimento Web:](https://github.com/Arnaelcio/trybe-exercises/tree/master/Intro_Desenv_Web)
+### [Introdução - Desenvolvimento Web:](https://github.com/Arnaelcio/trybe-exercises/tree/master/Intro_Desenv_Web/)
 ##### Bloco 1: 
 - *1-3: Introdução - Desenvolvimento Web.*
 - *1-3: Introdução - Unix &amp; Shell.*
@@ -47,7 +47,7 @@ Pronto! Você já sabe um pouco sobre onde [**eu**](https://www.linkedin.com/in/
 - *5-7: Projeto - Lista de tarefas.*
 - *5-7: (Bônus) Projeto - Adivinhe a Cor.*
 - *5-7: (Bônus) Projeto - Carta Misteriosa.*
-### Desenvolvimento Front-end:
+### [Desenvolvimento Front-end:](https://github.com/Arnaelcio/trybe-exercises/tree/master/Desenv_Front_End)
 ##### Bloco 6:
 - *6-1: Introdução - Front-end.*
 - *6-1: HTML & CSS - Forms.*
@@ -114,7 +114,7 @@ Pronto! Você já sabe um pouco sobre onde [**eu**](https://www.linkedin.com/in/
 - *18-4: Projeto - StarWars Datatable com Context API e Hooks.*
 ##### Bloco 19:
 - *19-1: Projeto - App de Receitas.*
-### Desenvolvimento Back-end:
+### [Desenvolvimento Back-end:](https://github.com/Arnaelcio/trybe-exercises/tree/master/Desenv_Back_End)
 ##### Bloco 20:
 - *20-1: Introdução - Back-end.*
 - *20-1: Introdução - Bancos de dados relacionais.*
@@ -184,7 +184,7 @@ Pronto! Você já sabe um pouco sobre onde [**eu**](https://www.linkedin.com/in/
 - *33-3: Projeto - Webchat.*
 ##### Bloco 34:
 - *34-1: Projeto - Trybeer V2.*
-### Ciência da Computação:
+### [Ciência da Computação:](https://github.com/Arnaelcio/trybe-exercises/tree/master/Intro_Ciencia_da_Computa%C3%A7%C3%A3o)
 ##### Bloco 35:
 - *35-1: Introdução - Ciência da Computação.*
 - *35-1: Arquitetura de Computadores.*
