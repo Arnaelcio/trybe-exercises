@@ -12,7 +12,7 @@ Seu programa de formação possui mais de 1.500 horas de aulas presenciais e onl
 Pronto! Você já sabe um pouco sobre onde [**eu**](https://www.linkedin.com/in/arnaelciogomespereira/)  estudo... agora abaixo deixo os tópicos dos conteúdos estudados no programa da Trybe.
 
 
-### Introdução - Desenvolvimento Web:
+### [Introdução - Desenvolvimento Web:](https://github.com/Arnaelcio/trybe-exercises/tree/master/Intro_Desenv_Web)
 ##### Bloco 1: 
 - *1-3: Introdução - Desenvolvimento Web.*
 - *1-3: Introdução - Unix &amp; Shell.*
