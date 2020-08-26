@@ -9,7 +9,7 @@ A [**Trybe**](https://www.betrybe.com/) é uma escola do futuro para qualquer pe
 
 Seu programa de formação possui mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-Pronto! Você já sabe um pouco sobre onde [**eu**](https://www.linkedin.com/in/arnaelciogomespereira/)  estudo... agora abaixo deixo os tópicos dos conteúdos estudados no programa da Trybe.
+Pronto! Você já sabe um pouco sobre onde [**eu**](https://www.linkedin.com/in/arnaelciogomespereira/){:target="_blank"}  estudo... agora abaixo deixo os tópicos dos conteúdos estudados no programa da Trybe.
 
 
 ### [Introdução - Desenvolvimento Web:](https://github.com/Arnaelcio/trybe-exercises/tree/master/Intro_Desenv_Web)
