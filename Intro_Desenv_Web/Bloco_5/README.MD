@@ -1,0 +1,11 @@
+##### Bloco 5:
+- *5-1: JavaScript - DOM e seletores.*
+- *5-2: JavaScript - Trabalhando com elementos.*
+- *5-3: JavaScript - Eventos.*
+- *5-4: JavaScript - Web Storage.*
+- *5-5: Introdução - JavaScript - Projetos.*
+- *5-5: Projeto - Meme Generator.*
+- *5-6: Projeto - Arte com Pixels.*
+- *5-7: Projeto - Lista de tarefas.*
+- *5-7: (Bônus) Projeto - Adivinhe a Cor.*
+- *5-7: (Bônus) Projeto - Carta Misteriosa.*
