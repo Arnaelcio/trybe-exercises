@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Exercício 5.2</title>
+    <style>
+      div {
+        border-color: black;
+        border-style: solid;
+      }
+
+      .title {
+        text-align: center;
+      }
+
+      .main-content {
+        background-color: yellow;
+      }
+
+      .main-content .center-content {
+        background-color: red;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      .main-content .center-content p {
+        font-style: italic;
+      }
+
+      .main-content .left-content {
+        background-color: green;
+        width: 60%;
+        margin-left: 0;
+        margin-right: auto;
+      }
+
+      .main-content .left-content .small-image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 100%;
+      }
+
+      .main-content .right-content {
+        background-color: blue;
+        width: 60%;
+        margin-left: auto;
+        margin-right: 0;
+      }
+
+      .main-content .description {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+        //exer 1 e 1.1
+        function criarh1(){
+            let textoh1 = document.createElement('h1')
+            textoh1.innerText = 'Exercício 5.2 - JavaScript DOM';
+            textoh1.className = ('title')
+            document.querySelector('body').appendChild(textoh1) // equivale à document.body.appendChild(textoh1) 
+        }
+        criarh1()
+        //exer 2        
+        function criaDiv1(){
+            let div1 = document.createElement('div')
+            div1.className = 'main-content';
+            document.querySelector('body').appendChild(div1) // equivale à document.body.appendChild(div1) 
+        }
+        criaDiv1()
+        //exer 3
+        function criaFilhoDeDiv1(){
+            let filhoDeDiv1 = document.createElement('div')
+            filhoDeDiv1.className = 'center-content';
+            document.querySelector('div.main-content').appendChild(filhoDeDiv1)  
+        }
+        criaFilhoDeDiv1()
+        //exer 4
+        function criaParagrafo(){
+            let paragrafoFilhoDeDiv = document.createElement('p')
+            paragrafoFilhoDeDiv.innerText = 'Eu sou um parágrafo';
+            document.querySelector('div.center-content').appendChild(paragrafoFilhoDeDiv) 
+        }
+        criaParagrafo()
+        //exer 5
+        function criaLeftClass(){
+            let newClass = document.createElement('div')
+            newClass.className = 'left-content';
+            document.querySelector('div.main-content').appendChild(newClass) 
+        }
+        criaLeftClass()
+        //exer 6 e exer 4 dos extras
+        function criaRightClass(){
+            let newClass = document.createElement('div')
+            newClass.className = 'right-content';
+            newClass.style = ' margin-right: auto';
+            document.querySelector('div.main-content').appendChild(newClass) 
+        }
+        criaRightClass()
+        //exer 7
+          function addImage(){
+            let newImage = document.createElement('img')
+            newImage.className = 'small-image';
+            newImage.src = 'https://picsum.photos/200'
+            document.querySelector('div.left-content').appendChild(newImage) 
+        }
+        addImage()
+         //exer 8
+         function addUlist(){
+             let listaExemple = [
+              'Um',
+              'Dois',
+              'Trẽs',
+              'Quatro',
+              'Cinco',
+              'Seis',
+              'Sete',
+              'Oito',
+              'Nove',
+              'Dez',
+             ]
+            for (item = 0; item < listaExemple.length; item += 1){
+                let items = listaExemple[item]
+                let newUlist = document.createElement('li')
+                newUlist.innerText = items;
+                document.querySelector('div.right-content').appendChild(newUlist)
+            }
+
+        }
+        addUlist()
+        //exer 9 e exer 2 dos extras
+        function addH3(){
+            let newH31 = document.createElement('h3')
+            newH31.className = ('description')
+            let newH32 = document.createElement('h3')
+            newH32.className = ('description')
+            let newH33 = document.createElement('h3')
+            newH33.className = ('description')
+            document.querySelector('div.main-content').appendChild(newH31) 
+            document.querySelector('div.main-content').appendChild(newH32) 
+            document.querySelector('div.main-content').appendChild(newH33) 
+        }
+        addH3()
+        //exer 3 dos extras
+
+        function removeDiv(){
+            let retirar  =  document.querySelector('div.left-content')
+
+            document.querySelector('div.main-content').removeChild(retirar)
+       }
+        removeDiv()
+        //exer 5 dos extras
+        function trocarCordoPai(){
+            let divPai =  document.querySelector('div.center-content').parentElement
+            divPai.style.backgroundColor =  '#0fa36b'   
+            //  console.log(divPai)
+            // document.querySelector('div.main-content').removeChild(retirar)
+       }
+        trocarCordoPai()
+        //exer 6 dos extras
+        function removeLi(){
+
+            let removeUltimosLis =  document.querySelector('div.right-content')
+            removeUltimosLis.lastChild.remove()
+            removeUltimosLis.lastChild.remove()
+
+       }
+       removeLi()
+
+
+    </script>
+  </body>
+</html>
