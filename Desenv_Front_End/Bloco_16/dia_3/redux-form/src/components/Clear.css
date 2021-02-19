@@ -1,0 +1,11 @@
+.clear {
+    align-self: center;
+    margin-top: 10px;
+    border-radius: 10px;
+    color: cornsilk;
+    background-color: blue;
+    width: 100%;
+    height: 35px;
+    font-size: 20px;
+    font-weight: bold;
+}
