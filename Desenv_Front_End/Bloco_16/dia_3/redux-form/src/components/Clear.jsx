@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { connect } from 'react-redux'
 import "./Clear.css";
+
 import "./Fieldset1.css";
 import { resetState } from "../actions/changeFieldsets";
 

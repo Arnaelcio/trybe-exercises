@@ -53,7 +53,7 @@ export default function reducer(state = INITIAL_STATE, action) {
     case CHANGE_DESCRIPTION:
       return { ...state, Descrição: action.change_Description };
       case RESET_STATE:
-        return { ...state = INITIAL_STATE };
+        return INITIAL_STATE ;
     default:
       return state;
   }

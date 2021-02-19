@@ -14,8 +14,8 @@ export default class Submit extends Component {
     const get = store.getState();
     congrats.innerHTML = `
         <fieldset style='height: 800px'id="data">
-       <label style="
-    font-weight: bold;">${Object.entries(get)[0][(0, 0)]}</label>
+       <label style="font-weight: bold;">${Object.entries(get)[0][(0, 0)]}</label>
+       
        <div style="align-self: start;margin-left: 30px;margin-bottom: 10px;">${
          Object.entries(get)[0][(0, 1)]
        }</div>
