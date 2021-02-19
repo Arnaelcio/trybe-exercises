@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Provider store={store}>
         <h1>Simpou formi usin Riáquiti riduquis : D</h1>
-        <div id="congrat" className="hidden">Obrigado</div>
+        <div id="congrat" className="hidden"></div>
         <div id="div">
           <Fieldset1 />
           <Fieldset2 />
